@@ -1,6 +1,3 @@
-# S3-semtagging-multiling-applications
-Part of the UCREL NLP Summer School 2016 and 2017
-
 1. About
 
 This folder contains teaching materials provided for the Lancaster University UCREL Summer School 2017 (http://ucrel.lancs.ac.uk/summerschool/index.php). Please check this site for possible updates before you take the session.
